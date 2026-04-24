@@ -4,6 +4,7 @@ import {
   weiToEth, ethToWei, formatDate,
   statusLabel, statusColor, shortAddr,
 } from "./utils/web3Utils";
+import './App.css';
 
 /* ════════════════════════════════════════════════
    TOAST COMPONENT
